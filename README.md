@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Phillip4reall
 - 👀 I’m interested in meeting my fellow Mobile engineer to work together
-- 🌱 I’m currently learning Flutter and Dart 
+
 - 💞️ I’m looking to collaborate on projects and others 
 - 📫 you can reach me via email address gbengaoyeladun@gmail.com
 
